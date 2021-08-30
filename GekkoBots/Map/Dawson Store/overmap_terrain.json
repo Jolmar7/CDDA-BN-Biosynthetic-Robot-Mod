@@ -1,0 +1,21 @@
+[
+    {
+        "id": "s_dawson",
+        "type": "overmap_terrain",
+        "name": "Dawson Store",
+        "sym": "D",
+        "color": "light_blue",
+        "see_cost": 10,
+        "mondensity": 2,
+        "flags": [ "SIDEWALK" ]
+    },
+    {
+        "id": "s_dawson_roof",
+        "type": "overmap_terrain",
+        "name": "Dawson Store roof",
+        "sym": "D",
+        "color": "light_blue",
+        "see_cost": 2
+    }
+        
+]

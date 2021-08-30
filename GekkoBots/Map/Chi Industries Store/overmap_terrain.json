@@ -1,0 +1,31 @@
+[
+    {
+        "id": "GKB_CHISTORE1",
+        "type": "overmap_terrain",
+        "name": "Chi Industries Store",
+        "sym": "C",
+        "color": "cyan",
+        "see_cost": 10,
+        "mondensity": 2,
+        "flags": [ "SIDEWALK" ]
+    },
+    {
+        "id": "GKB_CHISTORE2",
+        "type": "overmap_terrain",
+        "name": "Chi Industries Store",
+        "sym": "C",
+        "color": "cyan",
+        "see_cost": 10,
+        "mondensity": 2,
+        "flags": [ "SIDEWALK" ]
+    },
+    {
+        "id": "GKB_CHISTORE1_roof",
+        "type": "overmap_terrain",
+        "name": "Chi Industries Store roof",
+        "sym": "C",
+        "color": "cyan",
+        "see_cost": 2
+    }
+        
+]
