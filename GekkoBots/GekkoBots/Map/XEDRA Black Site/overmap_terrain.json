@@ -1,0 +1,57 @@
+[
+    {
+        "id": "GKB_BLACKSITE1",
+        "type": "overmap_terrain",
+        "name": "XEDRA Black Site",
+        "sym": "X",
+        "color": "cyan",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "GKB_BLACKSITE2",
+        "type": "overmap_terrain",
+        "name": "XEDRA Black Site",
+        "sym": "X",
+        "color": "cyan",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "GKB_BLACKSITE3",
+        "type": "overmap_terrain",
+        "name": "XEDRA Black Site",
+        "sym": "X",
+        "color": "cyan",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "GKB_BLACKSITE4",
+        "type": "overmap_terrain",
+        "name": "XEDRA Black Site",
+        "sym": "X",
+        "color": "cyan",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "GKB_BLACKSITE5",
+        "type": "overmap_terrain",
+        "name": "XEDRA Black Site",
+        "sym": "X",
+        "color": "cyan",
+        "see_cost": 10,
+        "mondensity": 2
+    },
+    {
+        "id": "GKB_BLACKSITE6",
+        "type": "overmap_terrain",
+        "name": "XEDRA Black Site",
+        "sym": "X",
+        "color": "cyan",
+        "see_cost": 10,
+        "mondensity": 2
+    }
+        
+]

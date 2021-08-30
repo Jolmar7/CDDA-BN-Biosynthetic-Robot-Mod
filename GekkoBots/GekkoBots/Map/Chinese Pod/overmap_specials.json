@@ -1,0 +1,9 @@
+[
+    {
+        "type": "overmap_special",
+        "id": "Chinese Drone Pod",
+        "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "GKB_CHINPOD_1_south" }, { "point": [ 0, 0, 1 ], "overmap": "GKB_CHINPOD_1_roof_south" } ],
+        "locations": [ "field" ],
+        "occurrences": [ 4, 35 ]
+    }
+]

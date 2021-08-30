@@ -1,0 +1,10 @@
+[
+    {
+        "type": "overmap_special",
+        "id": "Automated Compliance Center",
+        "overmaps": [ { "point": [ 0, 0, 0 ], "overmap": "GKB_COMPCENTER1_south" }, { "point": [ 0, 0, 1 ], "overmap": "GKB_COMPCENTER1_roof_south" } ],
+        "locations": [ "land" ],
+        "occurrences": [ 5, 35 ],
+        "connections": [ { "point": [ 0, 1, 0 ], "terrain": "road", "existing": true } ]
+    }
+]
