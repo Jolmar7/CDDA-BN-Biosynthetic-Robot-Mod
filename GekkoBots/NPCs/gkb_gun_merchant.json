@@ -9,7 +9,7 @@
     "attitude": 0,
     "mission": 3,
     "chat": "TALK_GKBGUN_Town",
-    "mission_offered": "MISSION_GKB_GUN_C_ITEM",
+    "mission_offered": "MISSION_GKB_GUN_A_ITEM",
     "faction": "fac_scrapperbots"
   },
   {
